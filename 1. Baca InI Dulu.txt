@@ -1,0 +1,8 @@
+1. Extras Folder ke D:
+2. Setelah selesai.
+3. Lalu ikuti langkah langkah upload
+
+ket. 
+- untuk aplikasi upload ada di folder TOOLS_UPDATER
+- untuk file firmware ada di folder RELEASE
+- untuk aplikasi tester LCD ada di DISPLAY_LCD_TESTER
