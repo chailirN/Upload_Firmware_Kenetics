@@ -1,5 +1,5 @@
 # Upload_Firmware_Kenetics
-Uploader - Applicaiton Tools 
+Uploader - Application Tools 
 
 1. Download terlebih dahulu
 2. Extras Folder ke D:
